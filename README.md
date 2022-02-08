@@ -7,4 +7,4 @@ Encrypted Pointer:
 ![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/EncryptedPointer.png)
 
 Decrypted Pointer:
-![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/DecryptedPointer.png)
+![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/DecryptedPointer2.png)
