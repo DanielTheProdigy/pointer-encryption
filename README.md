@@ -4,7 +4,7 @@ This is a "simple" demonstration how i do pointer encryption. I have tested it a
 Below are some images of the examples:
 
 Encrypted Pointer:
-![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/EncryptedPointer.png)
+![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/EncryptedPointer2.png)
 
 Decrypted Pointer:
-![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/DecryptedPointer2.png)
+![alt text](https://github.com/DanielTheProdigy/pointer-encryption/blob/main/DecryptedPointer.png)
